@@ -1,2 +1,2 @@
 # VivoEnergy
-Demo Repository
+Demo Repository used for a simple demo
